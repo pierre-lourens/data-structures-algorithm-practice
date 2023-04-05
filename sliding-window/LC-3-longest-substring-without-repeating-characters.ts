@@ -1,4 +1,7 @@
 /*
+Title: LC. 3 Longest substring without repeating characters
+URL: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
 Takeaway: two pointers still work here. you can use the size of the window to know when to advance
 This solution uses a set.
 Another approach would be to use a map with keys being the string and values being the counts.
